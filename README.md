@@ -229,3 +229,10 @@ Este projeto demonstra uma **solução completa de engenharia de dados** que ate
 A solução está **pronta para produção** e pode ser expandida para incorporar novas fontes e análises, proporcionando valor contínuo para a estratégia da empresa.
 
 ---
+
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/7be8a3b8-a1a3-408d-bf0e-7e9b279a16a6" />
+<img width="928" height="416" alt="image" src="https://github.com/user-attachments/assets/6e046c32-06b3-44d5-9b53-367a77e620b4" />
+<img width="927" height="354" alt="image" src="https://github.com/user-attachments/assets/953f2422-bf62-4d47-94e1-aef95033d041" />
+
+
+
