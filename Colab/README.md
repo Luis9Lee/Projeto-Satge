@@ -6,7 +6,6 @@
 3. [Camada Silver](#3-camada-silver) 
 4. [Camada Gold](#4-camada-gold)
 5. [API REST](#5-api-rest)
-6. [DAG Airflow](#6-dag-airflow)
 
 ---
 
