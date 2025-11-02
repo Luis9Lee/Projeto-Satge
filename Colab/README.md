@@ -1,14 +1,5 @@
 # Documentação Completa - Pipeline ETL COVID-19 Google Colab
 
-## 📋 Índice
-1. [Configuração Inicial](#1-configuração-inicial)
-2. [Camada Bronze](#2-camada-bronze)
-3. [Camada Silver](#3-camada-silver) 
-4. [Camada Gold](#4-camada-gold)
-5. [API REST](#5-api-rest)
-
----
-
 ## 1. Configuração Inicial
 
 ### 1.1 Instalação de Dependências
